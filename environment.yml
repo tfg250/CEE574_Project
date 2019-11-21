@@ -1,5 +1,3 @@
-name: environment
-
 dependencies:
 -pandas
 -plotly.graph_objects
