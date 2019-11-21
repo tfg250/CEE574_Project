@@ -1,11 +1,11 @@
 dependencies:
--pandas
--plotly.graph_objects
--plotly.express
--numpy
--math
--reverse_geocoder
--scipy.stats
--scipy
--fitter
--warnings
+  - pandas
+  - plotly.graph_objects
+  - plotly.express
+  - numpy
+  - math
+  - reverse_geocoder
+  - scipy.stats
+  - scipy
+  - fitter
+  - warnings
